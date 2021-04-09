@@ -1,0 +1,649 @@
+
+h1
+{
+	text-shadow: 1px 1px 1px black, 2px 3px 2px black, -1px 0px 1px black, 0px -1px 1px black;
+}
+
+.ma
+{
+
+		position:absolute;
+	top: 10px;
+	left: 150px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(60% at 60% 60%);
+}
+
+
+.mo
+{
+
+		position:absolute;
+	top: 10px;
+	left: 150px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(40% at 40% 40%);
+}
+
+.pauu
+{
+	position:absolute;
+	top: 700px;
+	left: 85px;
+	width: 350px;
+	height: 120px;
+}
+
+.paud
+{
+	position:absolute;
+	top: 700px;
+	left: 1050px;
+	width: 350px;
+	height: 120px;
+}
+
+.imag
+{
+	position:absolute;
+	top: 2100px;
+	left: 1150px;
+	text-shadow: 1px 1px 1px black, 2px 3px 2px black, -1px 0px 1px black, 0px -1px 1px black;
+}
+
+
+.pa
+{
+
+		position:absolute;
+	top: 1700px;
+	left: 80px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(60% at 60% 60%);
+}
+
+.au
+{
+
+		position:absolute;
+	top: 2000px;
+	left: 80px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(60% at 60% 60%);
+}
+
+.ul
+{
+
+		position:absolute;
+	top: 2300px;
+	left: 80px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(60% at 60% 60%);
+}
+
+.li
+{
+
+		position:absolute;
+	top: 1700px;
+	left: 390px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(60% at 60% 60%);
+}
+
+
+.bt
+{
+
+		position:absolute;
+	top: 2000px;
+	left: 390px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(60% at 60% 60%);
+}
+.te
+{
+
+		position:absolute;
+	top: 2300px;
+	left: 390px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(60% at 60% 60%);
+}
+.he
+{
+
+		position:absolute;
+	top: 2300px;
+	left: 700px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(60% at 60% 60%);
+}
+.na
+{
+
+		position:absolute;
+	top: 1700px;
+	left: 700px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(60% at 60% 60%);
+}
+.ao
+{
+		position:absolute;
+	top: 2000px;
+	left: 700px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(60% at 60% 60%);
+}
+
+.imagen
+{
+	position:absolute;
+	top: 3500px;
+	left: 1150px;
+	text-shadow: 1px 1px 1px black, 2px 3px 2px black, -1px 0px 1px black, 0px -1px 1px black;
+}
+
+.am
+{
+
+		position:absolute;
+	top: 3200px;
+	left: 80px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(60% at 60% 60%);
+}
+
+.an
+{
+
+		position:absolute;
+	top: 3500px;
+	left: 80px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(60% at 60% 60%);
+}
+
+.ni
+{
+
+		position:absolute;
+	top: 3800px;
+	left: 80px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(60% at 60% 60%);
+}
+
+
+.ri
+{
+
+		position:absolute;
+	top: 3800px;
+	left: 400px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(60% at 60% 60%);
+}
+
+
+.ah
+{
+
+		position:absolute;
+	top: 3500px;
+	left: 400px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(60% at 60% 60%);
+}
+.be
+{
+
+		position:absolute;
+	top: 3200px;
+	left: 400px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(60% at 60% 60%);
+}
+.do
+{
+
+		position:absolute;
+	top: 3500px;
+	left: 700px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(60% at 60% 60%);
+}
+.ya
+{
+
+		position:absolute;
+	top: 3200px;
+	left: 700px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(60% at 60% 60%);
+}
+.bb
+{
+		position:absolute;
+	top: 3800px;
+	left: 700px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(60% at 60% 60%);
+}
+
+.ta 
+{
+
+	position:absolute;
+	top: 600px;
+	left: 120px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(30% at 30% 30%);
+}
+.clicu
+{
+	position:absolute;
+	top: 720px;
+	left: 100px;
+	text-shadow: 1px 1px 1px black, 2px 3px 2px black, -1px 0px 1px black, 0px -1px 1px black;
+}
+.re
+{
+
+	position:absolute;
+	top: 600px;
+	left:680px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(30% at 30% 30%);
+}
+.clicd
+{
+	position:absolute;
+	top: 720px;
+	left: 600px;
+	text-shadow: 1px 1px 1px black, 2px 3px 2px black, -1px 0px 1px black, 0px -1px 1px black;
+}
+.aa
+{
+
+	position:absolute;
+	top: 600px;
+	left: 1250px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(30% at 30% 30%);
+}
+.clict
+{
+	position:absolute;
+	top: 720px;
+	left: 1160px;
+	text-shadow: 1px 1px 1px black, 2px 3px 2px black, -1px 0px 1px black, 0px -1px 1px black;
+}
+
+
+
+.at 
+{
+
+	position:absolute;
+	top: 600px;
+	left: 120px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(30% at 40% 35%);
+}
+.clic
+{
+	position:absolute;
+	top: 720px;
+	left: 30px;
+	text-shadow: 1px 1px 1px black, 2px 3px 2px black, -1px 0px 1px black, 0px -1px 1px black;
+}
+.er
+{
+
+	position:absolute;
+	top: 600px;
+	left:680px;
+	width: 250px;
+	height: 250px;
+-webkit-clip-path: circle(30% at 40% 30%);
+}
+.dclic
+{
+	position:absolute;
+	top: 720px;
+	left: 600px;
+	text-shadow: 1px 1px 1px black, 2px 3px 2px black, -1px 0px 1px black, 0px -1px 1px black;
+}
+.aj
+{
+
+	position:absolute;
+	top: 600px;
+	left: 1250px;
+	width: 250px;
+	height: 250px;
+-webkit-clip-path: circle(30% at 40% 30%);
+}
+.tclic
+{
+	position:absolute;
+	top: 720px;
+	left: 1160px;
+	text-shadow: 1px 1px 1px black, 2px 3px 2px black, -1px 0px 1px black, 0px -1px 1px black;
+}
+
+.ut
+{
+
+	position:absolute;
+	top: 600px;
+	left:1000px;
+	width: 250px;
+	height: 250px;
+-webkit-clip-path: circle(30% at 40% 30%);
+}
+.uclic
+{
+	position:absolute;
+	top: 1000px;
+	left: 1000px;
+	text-shadow: 1px 1px 1px black, 2px 3px 2px black, -1px 0px 1px black, 0px -1px 1px black;
+}
+
+p
+{ 
+font-family:cursive;
+font-size: 20px;
+} 
+
+.foto1
+{
+ position:absolute;
+	top: 1800px;
+	left: 100px;
+		width: 450px;
+	height: 225px;
+	background: url(c++2.jpg); 
+	}
+
+.foto1:hover
+ {
+background:url(c++1.jpg);
+background-size: cover;
+border-right-color: blue;
+ }
+
+
+ .foto2
+{
+ position:absolute;
+	top: 2050px;
+	left: 100px;
+		width: 250px;
+	height: 180px;
+	background: url(c++3.jpg); 
+	}
+
+.foto2:hover
+ {
+background:url(c++4.jpg);
+background-size: cover;
+border-right-color: blue;
+ }
+
+ 	.foto3
+{
+ position:absolute;
+	top: 1800px;
+	left: 700px;
+		width: 700px;
+	height: 400px;
+	background: url(c++5.png); 
+	}
+
+.foto3:hover
+ {
+background:url(c++6.png);
+background-size: cover;
+border-right-color: blue;
+ }
+
+ .dise
+{
+ position:absolute;
+	top: 3200px;
+	left: 200px;
+		width: 250px;
+	height: 170px;
+	background: url(Bjarne1.jpg); 
+	}
+
+
+ .ñador
+{
+ position:absolute;
+	top: 3200px;
+	left: 650px;
+		width: 250px;
+	height: 20px;
+	background: url(Bjarne.jpg); 
+	}
+
+ .rne
+{
+ position:absolute;
+	top: 3200px;
+	left: 1100px;
+		width: 250px;
+	height: 30px;
+	background: url(Bjarne3.jpg); 
+	}
+
+
+ 	.foto4
+{
+ position:absolute;
+	top: 4200px;
+	left: 400px;
+		width: 630px;
+	height: 455px;
+	background: url(main.png); 
+	}
+	.foto5
+{
+ position:absolute;
+	top: 5300px;
+	left: 400px;
+		width: 800px;
+	height: 500px;
+	background: url(funcion.jpg); 
+	}
+ 	.foto6
+{
+ position:absolute;
+	top: 6300px;
+	left: 650px;
+		width: 300px;
+	height: 165px;
+	background: url(vector.jpg); 
+	}
+	
+
+	.foto9
+{
+ position:absolute;
+	top: 1800px;
+	left: 100px;
+		width: 255px;
+	height: 180px;
+	background: url(excel1.jpg); 
+	}
+		.foto10
+{
+ position:absolute;
+	top: 1800px;
+	left: 550px;
+		width: 255px;
+	height: 180px;
+	background: url(excel2.jpg); 
+	}
+		.foto11
+{
+ position:absolute;
+	top: 1800px;
+	left: 1000px;
+		width: 255px;
+	height: 180px;
+	background: url(excel3.jpg); 
+	}
+	
+
+ .ñador1
+{
+ position:absolute;
+	top: 2900px;
+	left: 150px;
+		width: 270px;
+	height: 0px;
+	background: url(charles.jpg); 
+	}
+ .dise2
+{
+ position:absolute;
+	top: 2900px;
+	left: 550px;
+		width: 250px;
+	height: 10px;
+	background: url(charles2.jpg); 
+	}
+ .rne3
+{
+ position:absolute;
+	top: 2900px;
+	left: 1000px;
+		width: 250px;
+	height: 5px;
+	background: url(charles3.jpg); 
+	}
+
+	.foto15
+{
+ position:absolute;
+	top: 4300px;
+	left: 100px;
+		width: 250px;
+	height: 180px;
+	background: url(excel5.jpg); 
+	}
+				.foto16
+{
+ position:absolute;
+	top: 4300px;
+	left: 700px;
+		width: 250px;
+	height: 180px;
+	background: url(excel16.jpg); 
+	}
+				.foto17
+{
+ position:absolute;
+	top: 4300px;
+	left: 1150px;
+		width: 300px;
+	height: 150px;
+	background: url(excel17.jpg); 
+	}
+
+.respon
+{
+ position:absolute;
+	top: 550px;
+	left: 150px;
+		width: 300px;
+	height: 150px;
+	background: url(responsabilidad.jpg); 
+		-webkit-clip-path: circle(55% at 55% 90%);
+	}
+.puntual
+{
+ position:absolute;
+	top: 820px;
+	left: 550px;
+		width: 300px;
+	height: 150px;
+	background: url(puntualidad.jpg); 
+		-webkit-clip-path: circle(80% at 90% 150%);
+	}
+	.libros
+{
+ position:absolute;
+	top: 550px;
+	left: 1000px;
+		width: 300px;
+	height: 150px;
+	background: url(libros.jpg); 
+		-webkit-clip-path: circle(55% at 55% 90%);
+		}
+
+
+    .planm
+  { 
+  	position:absolute;
+	top: 900px;
+	left: 700px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(30% at 40% 40%);
+       }
+       .cclic
+{
+	position:absolute;
+	top: 1050px;
+	left: 670px;
+	text-shadow: 1px 1px 1px black, 2px 3px 2px black, -1px 0px 1px black, 0px -1px 1px black;
+}
+
+.parc
+{
+
+	position:absolute;
+	top: 900px;
+	left: 120px;
+	width: 250px;
+	height: 250px;
+	-webkit-clip-path: circle(30% at 40% 40%);
+}
+.parclic
+{
+	position:absolute;
+	top: 1050px;
+	left: 100px;
+	text-shadow: 1px 1px 1px black, 2px 3px 2px black, -1px 0px 1px black, 0px -1px 1px black;
+}
